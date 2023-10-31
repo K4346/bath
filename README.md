@@ -13,3 +13,7 @@ docker run -it -v "C:/Users/user/Desktop/NNforAnd/5bath/results":"/results" ultr
 
 
 //docker run -it -v "C:\Users\user\Desktop\NNforAnd\5bath\dataset":./dataset" -v "C:/Users/user/Desktop/NNforAnd/5bath/results":"/results" ultralytics-val -v "C:/Users/user/Desktop/NNforAnd/5bath/results/train/weights":"/model"
+
+DATASET
+
+https://drive.google.com/drive/folders/12THuTjwkfzXbwZV972fSg7-9bkY1ZTgh?usp=sharing
